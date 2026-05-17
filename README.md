@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**samrojk/samrojk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Samroj Khan](https://samrojk.netlify.app)** a software engineer based on india.
 
-Here are some ideas to get you started:
+I **design** and **build** crazy stuffs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something pops into my head, chances are I'll build it, and ship it.
+
+My tech stack is **react, react-native, javascript & python**. My (⭐ star of the show) tools are vs code, figma, and a bunch of AI's.
+
+Althought, I've got a bunch of projects! but my favorite is the **[Project](https://github.com/samrojk/portfolio)**.
+
+I'm also a **Linux geek** and enjoy exploring **cybersecurity, hacking, and system level tools**.
+_You don't wanna mess with me!_
+
+If you want to check out what I'm building, take a look at my pinned repositories below.
+
+### Fun Facts
+
+- Always exploring new technologies
+- I enjoy building things that solve problems I face myself
+- Sometimes my side projects have side projects
