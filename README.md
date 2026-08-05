@@ -6,9 +6,9 @@ I **design** and **build** crazy stuffs.
 
 If something pops into my head, chances are I'll build it, and ship it.
 
-My tech stack is **react, react-native, javascript & python**. My (⭐ star of the show) tools are vs code, figma, and a bunch of AI's.
+My tech stack is **react, react-native, javascript & python**. My (⭐ star of the show) tools are vs code, figma, and a bunch of LLM's.
 
-Althought, I've got a bunch of projects! but my favorite is the **[Project](https://github.com/samrojk/portfolio)**.
+Althought, I've got a bunch of projects! but my favorite is the **[GenWalls](https://github.com/samrojk/genwalls)**.
 
 I'm also a **Linux geek** and enjoy exploring **cybersecurity, hacking, and system level tools**.
 _You don't wanna mess with me!_
