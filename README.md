@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **[Samroj Khan](https://samrojk.netlify.app)** a software engineer based on india.
+I'm **[Samroj Khan](https://samrojk.vercel.app)** a software engineer based on india.
 
 I **design** and **build** crazy stuffs.
 
